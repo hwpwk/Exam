@@ -1,1 +1,3 @@
-# Source_code
+# exam
+
+・sort_values(ascending=True)
